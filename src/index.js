@@ -5,6 +5,13 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
+// const name="chrisman"
+// const element=<h1>Hallo {greet()}!</h1>
+
+// function  greet() {
+//     return name
+// }
+// ReactDOM.render(element, document.getElementById('master'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
